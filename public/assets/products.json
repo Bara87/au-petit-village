@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Figurine Astérix",
+      "description": "Figurine d'Astérix, le célèbre gaulois.",
+      "price": 19.99,
+      "image": "assets/images/asterix.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Figurine Obélix",
+      "description": "Figurine d'Obélix, le robuste compagnon d'Astérix.",
+      "price": 21.99,
+      "image": "assets/images/obelix.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Figurine Idéfix",
+      "description": "Figurine d'Idéfix, le fidèle compagnon d'Astérix et Obélix.",
+      "price": 15.99,
+      "image": "assets/images/idefix.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Figurine Abraracourcix",
+      "description": "Figurine d'Abraracourcix, le chef du village gaulois.",
+      "price": 23.99,
+      "image": "assets/images/abraracourcix.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Figurine Village d'astérix",
+      "description": "Figurine du village d'astérix, hachette de collections.",
+      "price": 18.99,
+      "image": "assets/images/village-asterix.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Figurine les femmes du Village ",
+      "description": "Figurine les femmes du village, autour du thé.",
+      "price": 20.99,
+      "image": "assets/images/femmes-asterix.jpg"
+    }
+  ]

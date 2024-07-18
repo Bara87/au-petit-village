@@ -1,0 +1,33 @@
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: var(--color-secondary);
+    color: var(--color-dark);
+    width: auto; 
+    height: auto;
+  }
+  
+  .social-media {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .social-media a {
+    text-decoration: none;
+    color: var(--color-dark);
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  @media (max-width: 600px) {
+    .social-media {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
